@@ -137,6 +137,14 @@ div:hover{
    color: #fff;
 }
 
+
+@media screen and (max-width: 600px) {
+    .container button {
+        margin-right: 200px;
+        margin-left: -50px;
+    }
+}
+
 /* .last{
     padding: 20px;
     background: #555252;

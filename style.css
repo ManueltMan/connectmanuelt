@@ -140,7 +140,7 @@ div:hover{
 
 @media screen and (max-width: 600px) {
     .container button {
-        margin-right: 200px;
+        margin-right: auto;
         margin-left: -50px;
     }
 }
